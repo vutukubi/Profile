@@ -37,9 +37,9 @@
                         <a href="index.html">personal</a>
                     </li>
                     <li class="selected">
-                        <a href="Favorite-books.html">favorite books</a>
+                        <a href="Favorite_books.txt">favorite books</a>
                     </li>
-                    <li><a href="Favorite-movies.html">favorite movies</a></li>
+                    <li><a href="Favorite_movies.txt">favorite movies</a></li>
                     <li><a href="#">favorite Tv shows</a></li>
                 </ol>
             </nav>
