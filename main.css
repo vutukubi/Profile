@@ -1,0 +1,101 @@
+body {
+    font-family: "Inter", serif;
+}
+
+.hero-section {
+    height: 200px;
+    overflow: hidden;
+}
+
+.hero-image {
+    width: 100%;
+}
+
+#profile-photo {
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    margin-left: 30px;
+    margin-top: -75px;
+    border: 5px solid #085259;
+}
+
+.image-profile-details {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+
+.name-section,
+.name {
+    font-size: 25px;
+}
+
+.name-section,
+.designation {
+    font-size: 18px;
+}
+
+.mid-section {
+    display: flex;
+    justify-content: center;
+    gap:20px;
+}
+
+.tabs-link-list  {
+    list-style-type: none;
+    width: 100%;
+    padding:0;
+    
+}
+
+.tabs-link-list a {
+    text-decoration: none;
+    color: #0a9396;
+}
+
+.tabs-link-list li.selected {
+    background-color: #f4a261;
+}
+
+.tabs-link-list li.selected a {
+    color: black;
+}
+
+.tabs-link-list li {
+    border: 1px solid #0a9396;
+    padding: 10px;
+
+}
+
+.main-section {
+    width: 500px;
+    
+}
+
+.main-section dt {
+    font-weight: bold;
+}
+
+.about-me-row {
+    display: flex;
+}
+.favorite-movies ul {
+text-align: center;
+display:flex;
+gap: 10px;
+}
+
+.favorite-movies img {
+height:300px;
+}
+
+.movie-poster {
+text-align: center;
+font-weight: bold;
+}
+.about-me-lastname {
+    display: flex;
+
+}
